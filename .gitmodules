@@ -1,0 +1,6 @@
+[submodule "sourmash-r"]
+	path = sourmash-r
+	url = https://github.com/luizirber/sourmash-r
+[submodule "sourmash_cpp"]
+	path = sourmash_cpp
+	url = https://github.com/luizirber/sourmash_cpp
