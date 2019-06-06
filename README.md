@@ -25,6 +25,8 @@ other languages (beside the supported one, Python).
     * better just to wait for wasm support?
 - erlang: [rustler](https://github.com/rusterlium/rustler)
 - ruby: helix
+  - helix
+  - [rutie](https://github.com/danielpclark/rutie) ([example](https://medium.com/swlh/speeding-up-ruby-mri-with-rust-a7c914d2f9d0))
 - julia ([example][3])
 
 [3]: https://github.com/felipenoris/JuliaPackageWithRustDep.jl
